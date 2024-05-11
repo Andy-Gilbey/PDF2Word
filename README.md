@@ -1,8 +1,11 @@
 # PDF to DOCX Converter
 
 ## Description
-This Python script converts PDF documents to DOCX format by extracting text from the PDF and saving it as a Word document. 
+I developed this script as a solution to an issue encountered with the format of the majority of lecture notes which were in PDF format. 
+My PDF readers advanced functionality is/was locked behind a paywall, especially those for manipulating text/images so I created this script to allow for full manipulation of the notes through word.
+What this Python script does is converts PDF documents to DOCX format by extracting text from the PDF and saving it as a Word document. 
 It works on the command-line with user prompts to specify the PDF file path and then handles the conversion process.
+
 
 ## Required Libraries
 To run this script, the following Python libraries are required:
